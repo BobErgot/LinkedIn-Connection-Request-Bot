@@ -1,0 +1,8 @@
+To create virtual environment 
+	python -m venv \base_path\automate_linkedin\env
+
+To start virtual environment
+	env\Scripts\activate
+
+To run script
+	python linkedin_bot.py
